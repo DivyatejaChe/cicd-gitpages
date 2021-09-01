@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cicd-gitpages/static/css/main.a617e044.chunk.css",
+    "main.js": "/cicd-gitpages/static/js/main.6ef99726.chunk.js",
+    "main.js.map": "/cicd-gitpages/static/js/main.6ef99726.chunk.js.map",
+    "runtime-main.js": "/cicd-gitpages/static/js/runtime-main.c1ffe399.js",
+    "runtime-main.js.map": "/cicd-gitpages/static/js/runtime-main.c1ffe399.js.map",
+    "static/js/2.1fc91f26.chunk.js": "/cicd-gitpages/static/js/2.1fc91f26.chunk.js",
+    "static/js/2.1fc91f26.chunk.js.map": "/cicd-gitpages/static/js/2.1fc91f26.chunk.js.map",
+    "static/js/3.83598b2a.chunk.js": "/cicd-gitpages/static/js/3.83598b2a.chunk.js",
+    "static/js/3.83598b2a.chunk.js.map": "/cicd-gitpages/static/js/3.83598b2a.chunk.js.map",
+    "index.html": "/cicd-gitpages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/cicd-gitpages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1fc91f26.chunk.js.LICENSE.txt": "/cicd-gitpages/static/js/2.1fc91f26.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cicd-gitpages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1ffe399.js",
+    "static/js/2.1fc91f26.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.6ef99726.chunk.js"
+  ]
+}
