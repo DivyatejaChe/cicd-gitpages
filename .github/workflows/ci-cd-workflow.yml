@@ -33,7 +33,7 @@ jobs:
         run: npm run build
 
       - name: Copy contents of /build to /dist
-        run: rm -rf dist && mv build dist
+        run: cp -a build/. dist
 
       - name: Deploy the app
         run: |
